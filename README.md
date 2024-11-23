@@ -33,11 +33,11 @@ Navigate to the todo_frontend folder:
 ```bash
 cd todo_frontend
 ```
-# Install the required npm packages:
+Install the required npm packages:
 ```bash
 npm install
 ```
-# Start the frontend server:
+Start the frontend server:
 ```bash 
 npm start
 ```
@@ -58,23 +58,23 @@ CORS_ORIGIN=*
 ```
 Ensure that your MongoDB URL is correct and working. You can use MongoDB Compass to connect to your database.
 
-# Install the required npm packages:
+Install the required npm packages:
 ```bash
 npm install
 ```
-# Start the backend server:
+Start the backend server:
 ```bash
 npm start  
 ```
 # The backend will be available on http://localhost:1156.
 
 ### 4. Running the Application
-# 1. The frontend will be running on port 3000.
-# 2. The backend will be running on port 1156.
+1. The frontend will be running on port 3000.
+2. The backend will be running on port 1156.
 Once everything is set up and running, you can open your browser and navigate to http://localhost:3000 to see the Todo application in action!
 
 ### Conclusion
-# This is a simple yet effective Todo application that allows users to manage their tasks. Built with ReactJS, NodeJS, ExpressJS, and MongoDB, it provides a great foundation for building more complex applications in the future.
+This is a simple yet effective Todo application that allows users to manage their tasks. Built with ReactJS, NodeJS, ExpressJS, and MongoDB, it provides a great foundation for building more complex applications in the future.
 
 
 ### Key Points:
